@@ -1,0 +1,1410 @@
+{
+  "key": "Assets",
+  "src": "",
+  "hash": "d42b2bb7",
+  "sub": [
+    {
+      "descr": "",
+      "key": "Business-Type Activities",
+      "src": "",
+      "sub": [
+        {
+          "descr": "Note: Accumulated depreciation on capital assets is $153M.",
+          "key": "Jetport",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Cash & Equivalents",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 17551668
+                },
+                {
+                  "year": "2016",
+                  "val": 21446955
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "wR88JOBb"
+            },
+            {
+              "descr": "",
+              "key": "Accounts Rec.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3020790
+                },
+                {
+                  "year": "2016",
+                  "val": 3045730
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "XlMV5b9t"
+            },
+            {
+              "descr": "",
+              "key": "Due from Other Governments",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3170361
+                },
+                {
+                  "year": "2016",
+                  "val": 1340104
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "xxnzH0KB"
+            },
+            {
+              "descr": "",
+              "key": "Inventories",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 299115
+                },
+                {
+                  "year": "2016",
+                  "val": 308135
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "CyScl8RN"
+            },
+            {
+              "descr": "",
+              "key": "Prepaid Expenses",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1517287
+                },
+                {
+                  "year": "2016",
+                  "val": 1454752
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "6JleIX6q"
+            },
+            {
+              "descr": "",
+              "key": "Restricted Cash & Equivalents",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 14151339
+                },
+                {
+                  "year": "2016",
+                  "val": 14839512
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "fXpAPJeb"
+            },
+            {
+              "descr": "",
+              "key": "Land",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 13313235
+                },
+                {
+                  "year": "2016",
+                  "val": 13313235
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FTg5IPtR"
+            },
+            {
+              "descr": "",
+              "key": "Buildings (Before Depreciation)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 176526424
+                },
+                {
+                  "year": "2016",
+                  "val": 176526424
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "zPn9DxVt"
+            },
+            {
+              "descr": "",
+              "key": "Improvements (Other than Buildings)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 125486950
+                },
+                {
+                  "year": "2016",
+                  "val": 128975670
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "wfhZRneI"
+            },
+            {
+              "descr": "",
+              "key": "Machinery",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 17389600
+                },
+                {
+                  "year": "2016",
+                  "val": 18484901
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "mXe2sV0I"
+            },
+            {
+              "descr": "",
+              "key": "Construction in Progress",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 170965
+                },
+                {
+                  "year": "2016",
+                  "val": 683247
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "5kEEu1Us"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 227834263
+            },
+            {
+              "year": "2016",
+              "val": 226964603
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "am3HTP1C"
+        },
+        {
+          "descr": "",
+          "key": "Sewer",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Cash & Equivalents",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 12226861
+                },
+                {
+                  "year": "2016",
+                  "val": 17809162
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Shha5X6P"
+            },
+            {
+              "descr": "",
+              "key": "Accounts Rec.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1269792
+                },
+                {
+                  "year": "2016",
+                  "val": 860775
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "pG6H2w1I"
+            },
+            {
+              "descr": "",
+              "key": "Notes Rec.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 260636
+                },
+                {
+                  "year": "2016",
+                  "val": 244913
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1Mt1K1XV"
+            },
+            {
+              "descr": "",
+              "key": "Inventories",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 71832
+                },
+                {
+                  "year": "2016",
+                  "val": 56078
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "zP0yBG5H"
+            },
+            {
+              "descr": "",
+              "key": "Restricted Cash & Equivalents",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4031358
+                },
+                {
+                  "year": "2016",
+                  "val": 5770064
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "11pXRKFt"
+            },
+            {
+              "descr": "",
+              "key": "Land",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 5408
+                },
+                {
+                  "year": "2016",
+                  "val": 854086
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "purEEwCj"
+            },
+            {
+              "descr": "",
+              "key": "Buildings",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1552180
+                },
+                {
+                  "year": "2016",
+                  "val": 1802442
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Rkr0gpEl"
+            },
+            {
+              "descr": "",
+              "key": "Improvements (other than buildings)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 46031
+                },
+                {
+                  "year": "2016",
+                  "val": 46031
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "XlBYsCHk"
+            },
+            {
+              "descr": "",
+              "key": "Machinery",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4464526
+                },
+                {
+                  "year": "2016",
+                  "val": 4795483
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "0SncGzpI"
+            },
+            {
+              "descr": "",
+              "key": "Infrastructure (before depreciation)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 137231606
+                },
+                {
+                  "year": "2016",
+                  "val": 138896847
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "E9Uh4xNe"
+            },
+            {
+              "descr": "",
+              "key": "Construction in Progress",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3545535
+                },
+                {
+                  "year": "2016",
+                  "val": 6005249
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "CMi6JGGY"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 134889646
+            },
+            {
+              "year": "2016",
+              "val": 145299986
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "GMzNVZ9h"
+        },
+        {
+          "descr": "",
+          "key": "Fish Pier",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 7212133
+            },
+            {
+              "year": "2016",
+              "val": 7317149
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "SKDdSUJX"
+        },
+        {
+          "descr": "",
+          "key": "Portland Dev. Corp.",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3597818
+            },
+            {
+              "year": "2016",
+              "val": 3534842
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "mMzezgaD"
+        },
+        {
+          "descr": "",
+          "key": "Stormwater",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 0
+            },
+            {
+              "year": "2016",
+              "val": 1290216
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "lufmO3uu"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 373533860
+        },
+        {
+          "year": "2016",
+          "val": 384406796
+        },
+        {
+          "year": "2017",
+          "val": 0
+        },
+        {
+          "year": "2018",
+          "val": 0
+        }
+      ],
+      "hash": "ecY3MSl9"
+    },
+    {
+      "descr": "",
+      "key": "Governmental Activities",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "Cash & Equivalents",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 79438686
+            },
+            {
+              "year": "2016",
+              "val": 93410208
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "kYpwh67Q"
+        },
+        {
+          "descr": "",
+          "key": "Investments",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 32535285
+            },
+            {
+              "year": "2016",
+              "val": 32716884
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "0Jb3Mwqf"
+        },
+        {
+          "descr": "",
+          "key": "Taxes Rec.",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3558688
+            },
+            {
+              "year": "2016",
+              "val": 2942918
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "HKIzZsAu"
+        },
+        {
+          "descr": "",
+          "key": "Accounts Rec.",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 8571150
+            },
+            {
+              "year": "2016",
+              "val": 7798634
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "LpFqImXx"
+        },
+        {
+          "descr": "",
+          "key": "Loans Rec.",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 1701763
+            },
+            {
+              "year": "2016",
+              "val": 1606195
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "JDqhMqBa"
+        },
+        {
+          "descr": "",
+          "key": "Due from Other Governments",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 7448905
+            },
+            {
+              "year": "2016",
+              "val": 4558264
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "ZFEK4hE7"
+        },
+        {
+          "descr": "",
+          "key": "Inventories",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 739288
+            },
+            {
+              "year": "2016",
+              "val": 767986
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "zMu2eaSX"
+        },
+        {
+          "descr": "",
+          "key": "Land",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 23927351
+            },
+            {
+              "year": "2016",
+              "val": 24773225
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "OOpXYgYO"
+        },
+        {
+          "descr": "",
+          "key": "Construction in Progress",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3349662
+            },
+            {
+              "year": "2016",
+              "val": 7604232
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "4UZ74zWE"
+        },
+        {
+          "descr": "",
+          "key": "Buildings & Improvments (net)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 119349523
+            },
+            {
+              "year": "2016",
+              "val": 120212345
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "lwgAKgo4"
+        },
+        {
+          "descr": "",
+          "key": "Improvements (other than buildings)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 21105316
+            },
+            {
+              "year": "2016",
+              "val": 21401083
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "K5whZoVd"
+        },
+        {
+          "descr": "",
+          "key": "Machinery",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 16869797
+            },
+            {
+              "year": "2016",
+              "val": 16094811
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "4sHQdo38"
+        },
+        {
+          "descr": "",
+          "key": "Infrastructure",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 137953184
+            },
+            {
+              "year": "2016",
+              "val": 136941698
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "EeESI7Qy"
+        },
+        {
+          "descr": "",
+          "key": "Prepaid Expenses",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 0
+            },
+            {
+              "year": "2016",
+              "val": 13183
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "Xfu8bWjb"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 456548598
+        },
+        {
+          "year": "2016",
+          "val": 470841666
+        },
+        {
+          "year": "2017",
+          "val": 0
+        },
+        {
+          "year": "2018",
+          "val": 0
+        }
+      ],
+      "hash": "98BM8f6y"
+    },
+    {
+      "descr": "",
+      "key": "Portland Public Library",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "Cash & Cash Equivalents",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 849152
+            },
+            {
+              "year": "2016",
+              "val": 823985
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "xO7KXboB"
+        },
+        {
+          "descr": "",
+          "key": "Investments",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 5557564
+            },
+            {
+              "year": "2016",
+              "val": 5428230
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "BuTfpQsI"
+        },
+        {
+          "descr": "",
+          "key": "Accounts Receivable",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 183737
+            },
+            {
+              "year": "2016",
+              "val": 122714
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "KL6x2w5c"
+        },
+        {
+          "descr": "",
+          "key": "Due from Primary Govt.",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 54453
+            },
+            {
+              "year": "2016",
+              "val": 63056
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "nVpUKyXx"
+        },
+        {
+          "descr": "",
+          "key": "Prepaid Expenses",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 83743
+            },
+            {
+              "year": "2016",
+              "val": 65548
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "ywovcgL0"
+        },
+        {
+          "descr": "",
+          "key": "Restricted Assets",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 354770
+            },
+            {
+              "year": "2016",
+              "val": 430352
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "M09EzlEV"
+        },
+        {
+          "descr": "",
+          "key": "Land",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 162500
+            },
+            {
+              "year": "2016",
+              "val": 162500
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "xN4YNjqZ"
+        },
+        {
+          "descr": "",
+          "key": "Buildings & Improvements",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3474175
+            },
+            {
+              "year": "2016",
+              "val": 3359011
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "LKOEiQpF"
+        },
+        {
+          "descr": "",
+          "key": "Machinery & Equipment",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 354188
+            },
+            {
+              "year": "2016",
+              "val": 255634
+            },
+            {
+              "year": "2017",
+              "val": 0
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "zuvJLL0g"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 11074282
+        },
+        {
+          "year": "2016",
+          "val": 10711030
+        },
+        {
+          "year": "2017",
+          "val": 0
+        },
+        {
+          "year": "2018",
+          "val": 0
+        }
+      ],
+      "hash": "AdZlyvmP"
+    }
+  ],
+  "descr": "Assets held by the City of Portland, Maine.",
+  "url": "",
+  "values": [
+    {
+      "val": 841156740,
+      "year": 2015
+    },
+    {
+      "val": 865959492,
+      "year": 2016
+    },
+    {
+      "val": 0,
+      "year": 2017
+    },
+    {
+      "val": 0,
+      "year": 2018
+    }
+  ]
+}

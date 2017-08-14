@@ -1,0 +1,6373 @@
+{
+  "key": "Revenues",
+  "src": "",
+  "hash": "07bae757",
+  "sub": [
+    {
+      "descr": "",
+      "key": "General",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "Property & Exise Taxes",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Current Year's Assessment",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 72300100
+                },
+                {
+                  "year": "2016",
+                  "val": 78536891
+                },
+                {
+                  "year": "2017",
+                  "val": 83862689
+                },
+                {
+                  "year": "2018",
+                  "val": 86169006
+                }
+              ],
+              "hash": "rHg5jzg1"
+            },
+            {
+              "descr": "",
+              "key": "Less: TIF Refunds",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": -2884008
+                },
+                {
+                  "year": "2016",
+                  "val": -1800624
+                },
+                {
+                  "year": "2017",
+                  "val": -2084318
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "gdRjPtNr"
+            },
+            {
+              "descr": "",
+              "key": "Prior Year's Assessment",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2247563
+                },
+                {
+                  "year": "2016",
+                  "val": 1800000
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "d4NOZJ3q"
+            },
+            {
+              "descr": "",
+              "key": "Automobile Excise",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 10231854
+                },
+                {
+                  "year": "2016",
+                  "val": 10000000
+                },
+                {
+                  "year": "2017",
+                  "val": 10600000
+                },
+                {
+                  "year": "2018",
+                  "val": 9860925
+                }
+              ],
+              "hash": "zqntAC19"
+            },
+            {
+              "descr": "",
+              "key": "Boat Excise",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 49293
+                },
+                {
+                  "year": "2016",
+                  "val": 38022
+                },
+                {
+                  "year": "2017",
+                  "val": 38950
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "aXv2DLhi"
+            },
+            {
+              "descr": "",
+              "key": "Aircraft Excise",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 96468
+                },
+                {
+                  "year": "2016",
+                  "val": 94574
+                },
+                {
+                  "year": "2017",
+                  "val": 95000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "tdylm4cq"
+            },
+            {
+              "descr": "",
+              "key": "Payments in Lieu of Taxes",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 561857
+                },
+                {
+                  "year": "2016",
+                  "val": 535200
+                },
+                {
+                  "year": "2017",
+                  "val": 570200
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1r9AE7gx"
+            },
+            {
+              "descr": "",
+              "key": "Interest and Penalties",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 402550
+                },
+                {
+                  "year": "2016",
+                  "val": 210000
+                },
+                {
+                  "year": "2017",
+                  "val": 290000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "LpT1JwhB"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 83005677
+            },
+            {
+              "year": "2016",
+              "val": 89414063
+            },
+            {
+              "year": "2017",
+              "val": 93372521
+            },
+            {
+              "year": "2018",
+              "val": 96029931
+            }
+          ],
+          "hash": "Ng976Pa2"
+        },
+        {
+          "descr": "",
+          "key": "Licenses & Permits",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Street Occupancy",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 287177
+                },
+                {
+                  "year": "2016",
+                  "val": 302502
+                },
+                {
+                  "year": "2017",
+                  "val": 318870
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "xK02iwGp"
+            },
+            {
+              "descr": "",
+              "key": "Business Licenses",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 911827
+                },
+                {
+                  "year": "2016",
+                  "val": 1320000
+                },
+                {
+                  "year": "2017",
+                  "val": 1505898
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "UsQIIM3R"
+            },
+            {
+              "descr": "",
+              "key": "Reinspections",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 250
+                },
+                {
+                  "year": "2017",
+                  "val": 3500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "fBayjwpu"
+            },
+            {
+              "descr": "",
+              "key": "Police and Protective",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1648
+                },
+                {
+                  "year": "2016",
+                  "val": 665
+                },
+                {
+                  "year": "2017",
+                  "val": 600
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "UDO13Alq"
+            },
+            {
+              "descr": "",
+              "key": "Solid Waste Control",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 12350
+                },
+                {
+                  "year": "2016",
+                  "val": 14480
+                },
+                {
+                  "year": "2017",
+                  "val": 12640
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1ZzPH68k"
+            },
+            {
+              "descr": "",
+              "key": "Non-business Licenses",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 617480
+                },
+                {
+                  "year": "2016",
+                  "val": 739574
+                },
+                {
+                  "year": "2017",
+                  "val": 692000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "eMItEgPg"
+            },
+            {
+              "descr": "",
+              "key": "Building Permits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1054787
+                },
+                {
+                  "year": "2016",
+                  "val": 1595421
+                },
+                {
+                  "year": "2017",
+                  "val": 1950000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "7lIzbnsb"
+            },
+            {
+              "descr": "",
+              "key": "Electrical Permits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 58895
+                },
+                {
+                  "year": "2016",
+                  "val": 70000
+                },
+                {
+                  "year": "2017",
+                  "val": 60000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "BxZgfdHU"
+            },
+            {
+              "descr": "",
+              "key": "Plumbing Permits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 43035
+                },
+                {
+                  "year": "2016",
+                  "val": 47000
+                },
+                {
+                  "year": "2017",
+                  "val": 55000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ovkmYgBb"
+            },
+            {
+              "descr": "",
+              "key": "Certificate of Occupancy",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 32950
+                },
+                {
+                  "year": "2016",
+                  "val": 37900
+                },
+                {
+                  "year": "2017",
+                  "val": 32000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1vE8srjC"
+            },
+            {
+              "descr": "",
+              "key": "Zoning Determination",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 15665
+                },
+                {
+                  "year": "2016",
+                  "val": 17000
+                },
+                {
+                  "year": "2017",
+                  "val": 25000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "UXUab9X4"
+            },
+            {
+              "descr": "",
+              "key": "Board of Appeals",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4584
+                },
+                {
+                  "year": "2016",
+                  "val": 7000
+                },
+                {
+                  "year": "2017",
+                  "val": 7000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "30xmQn9p"
+            },
+            {
+              "descr": "",
+              "key": "Dog Agent Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2035
+                },
+                {
+                  "year": "2016",
+                  "val": 2047
+                },
+                {
+                  "year": "2017",
+                  "val": 2045
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "EGc1IBKd"
+            },
+            {
+              "descr": "",
+              "key": "Hunting and Fishing",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 929
+                },
+                {
+                  "year": "2016",
+                  "val": 915
+                },
+                {
+                  "year": "2017",
+                  "val": 909
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "RW68X0DD"
+            },
+            {
+              "descr": "",
+              "key": "Marriages",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 33160
+                },
+                {
+                  "year": "2016",
+                  "val": 32784
+                },
+                {
+                  "year": "2017",
+                  "val": 32364
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "N3fJb30o"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3076522
+            },
+            {
+              "year": "2016",
+              "val": 4187538
+            },
+            {
+              "year": "2017",
+              "val": 4697826
+            },
+            {
+              "year": "2018",
+              "val": 5422322
+            }
+          ],
+          "hash": "G13D2hhp"
+        },
+        {
+          "descr": "",
+          "key": "Intergovernmental Revenue",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Federal Pass Thru Grants",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 166206
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "K4DIBGNF"
+            },
+            {
+              "descr": "",
+              "key": "Social Services",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3436532
+                },
+                {
+                  "year": "2016",
+                  "val": 5119975
+                },
+                {
+                  "year": "2017",
+                  "val": 4426238
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "f0eUYWyo"
+            },
+            {
+              "descr": "",
+              "key": "Revenue Sharing",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4072747
+                },
+                {
+                  "year": "2016",
+                  "val": 4000897
+                },
+                {
+                  "year": "2017",
+                  "val": 4200000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "zzNPWE6v"
+            },
+            {
+              "descr": "",
+              "key": "State of Maine / FEMA",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 33241
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1oI2LnU7"
+            },
+            {
+              "descr": "",
+              "key": "Local Road Assistance Prgm",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 496600
+                },
+                {
+                  "year": "2016",
+                  "val": 501438
+                },
+                {
+                  "year": "2017",
+                  "val": 500000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "qLHpFGx2"
+            },
+            {
+              "descr": "",
+              "key": "Medicaid",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1705822
+                },
+                {
+                  "year": "2016",
+                  "val": 955698
+                },
+                {
+                  "year": "2017",
+                  "val": 870570
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "h8dkgvjq"
+            },
+            {
+              "descr": "",
+              "key": "Snowmobile Registrations",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1595
+                },
+                {
+                  "year": "2016",
+                  "val": 1734
+                },
+                {
+                  "year": "2017",
+                  "val": 1500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "eiQTPyWF"
+            },
+            {
+              "descr": "",
+              "key": "Tree Growth Reimbursement",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1898
+                },
+                {
+                  "year": "2016",
+                  "val": 1990
+                },
+                {
+                  "year": "2017",
+                  "val": 2000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "grdnRWut"
+            },
+            {
+              "descr": "",
+              "key": "Veterans Real Estate Reimb.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 41541
+                },
+                {
+                  "year": "2016",
+                  "val": 42995
+                },
+                {
+                  "year": "2017",
+                  "val": 43000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "CHu9CH7o"
+            },
+            {
+              "descr": "",
+              "key": "Camping Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 7822
+                },
+                {
+                  "year": "2016",
+                  "val": 5000
+                },
+                {
+                  "year": "2017",
+                  "val": 5000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "S0J4cWAg"
+            },
+            {
+              "descr": "",
+              "key": "Homestead Tax Relief",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 884496
+                },
+                {
+                  "year": "2016",
+                  "val": 892225
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "4MvTCjCA"
+            },
+            {
+              "descr": "",
+              "key": "Business Personal Property Tax Relief",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1817027
+                },
+                {
+                  "year": "2016",
+                  "val": 1583907
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "AYaJBbVK"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 12665527
+            },
+            {
+              "year": "2016",
+              "val": 13105859
+            },
+            {
+              "year": "2017",
+              "val": 10048308
+            },
+            {
+              "year": "2018",
+              "val": 9860357
+            }
+          ],
+          "hash": "tGxrqUb2"
+        },
+        {
+          "descr": "",
+          "key": "Charges For Services",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Charges For Services PDD",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 328000
+                },
+                {
+                  "year": "2016",
+                  "val": 335329
+                },
+                {
+                  "year": "2017",
+                  "val": 351210
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "nJhT5KCg"
+            },
+            {
+              "descr": "",
+              "key": "Misc. Charges for Services",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4523077
+                },
+                {
+                  "year": "2016",
+                  "val": 4675312
+                },
+                {
+                  "year": "2017",
+                  "val": 5090187
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "0fL5azcZ"
+            },
+            {
+              "descr": "",
+              "key": "Confined Space",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 140600
+                },
+                {
+                  "year": "2017",
+                  "val": 145600
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ncL2sWLA"
+            },
+            {
+              "descr": "",
+              "key": "CFPM Classes",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 2020
+                },
+                {
+                  "year": "2017",
+                  "val": 5600
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "bHKZsEqA"
+            },
+            {
+              "descr": "",
+              "key": "Auto Registration",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 120853
+                },
+                {
+                  "year": "2016",
+                  "val": 105000
+                },
+                {
+                  "year": "2017",
+                  "val": 115000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "foODuoXI"
+            },
+            {
+              "descr": "",
+              "key": "Program Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 16955
+                },
+                {
+                  "year": "2016",
+                  "val": 16750
+                },
+                {
+                  "year": "2017",
+                  "val": 29650
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "usKVrxLm"
+            },
+            {
+              "descr": "",
+              "key": "Berthing Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 199237
+                },
+                {
+                  "year": "2016",
+                  "val": 211000
+                },
+                {
+                  "year": "2017",
+                  "val": 141771
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Dv21cJu6"
+            },
+            {
+              "descr": "",
+              "key": "Passenger Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 985641
+                },
+                {
+                  "year": "2016",
+                  "val": 1196490
+                },
+                {
+                  "year": "2017",
+                  "val": 981150
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "HTaGNrHo"
+            },
+            {
+              "descr": "",
+              "key": "Fresh Water",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 36911
+                },
+                {
+                  "year": "2016",
+                  "val": 55399
+                },
+                {
+                  "year": "2017",
+                  "val": 36800
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "7EOV8enu"
+            },
+            {
+              "descr": "",
+              "key": "Parking",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 52360
+                },
+                {
+                  "year": "2016",
+                  "val": 46752
+                },
+                {
+                  "year": "2017",
+                  "val": 47000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "NzFY81GX"
+            },
+            {
+              "descr": "",
+              "key": "Public Safety",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3816048
+                },
+                {
+                  "year": "2016",
+                  "val": 3386102
+                },
+                {
+                  "year": "2017",
+                  "val": 3500050
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ZlOF34u5"
+            },
+            {
+              "descr": "",
+              "key": "Witness Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 67387
+                },
+                {
+                  "year": "2016",
+                  "val": 55232
+                },
+                {
+                  "year": "2017",
+                  "val": 54000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "1Nh3G52I"
+            },
+            {
+              "descr": "",
+              "key": "Cruiser Use",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 164783
+                },
+                {
+                  "year": "2016",
+                  "val": 98731
+                },
+                {
+                  "year": "2017",
+                  "val": 79300
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "YqsgrJAP"
+            },
+            {
+              "descr": "",
+              "key": "Peer Review Reimbursement (Eng)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 157987
+                },
+                {
+                  "year": "2016",
+                  "val": 132739
+                },
+                {
+                  "year": "2017",
+                  "val": 90000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ryzfIebQ"
+            },
+            {
+              "descr": "",
+              "key": "Development Application Fee",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 34550
+                },
+                {
+                  "year": "2016",
+                  "val": 57500
+                },
+                {
+                  "year": "2017",
+                  "val": 33000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "D8NaDUT4"
+            },
+            {
+              "descr": "",
+              "key": "Development Review (Planners)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 76705
+                },
+                {
+                  "year": "2016",
+                  "val": 47690
+                },
+                {
+                  "year": "2017",
+                  "val": 90000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "OZExLcwR"
+            },
+            {
+              "descr": "",
+              "key": "Inspection / Review (DRC)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 55638
+                },
+                {
+                  "year": "2016",
+                  "val": 76954
+                },
+                {
+                  "year": "2017",
+                  "val": 80000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "BdcHVcUV"
+            },
+            {
+              "descr": "",
+              "key": "Site Alteration Review",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2600
+                },
+                {
+                  "year": "2016",
+                  "val": 1800
+                },
+                {
+                  "year": "2017",
+                  "val": 1600
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "CbqkQsKk"
+            },
+            {
+              "descr": "",
+              "key": "Recycling Program",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1635701
+                },
+                {
+                  "year": "2016",
+                  "val": 2039784
+                },
+                {
+                  "year": "2017",
+                  "val": 2186662
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "aVIQJEFO"
+            },
+            {
+              "descr": "",
+              "key": "Taxable Sales",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 17629
+                },
+                {
+                  "year": "2016",
+                  "val": 15914
+                },
+                {
+                  "year": "2017",
+                  "val": 15640
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "WsSQl2EQ"
+            },
+            {
+              "descr": "",
+              "key": "Riverside Recycling",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 273869
+                },
+                {
+                  "year": "2016",
+                  "val": 150220
+                },
+                {
+                  "year": "2017",
+                  "val": 167660
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "bpsDjSks"
+            },
+            {
+              "descr": "",
+              "key": "Heavy Item Stickers",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1851
+                },
+                {
+                  "year": "2016",
+                  "val": 3360
+                },
+                {
+                  "year": "2017",
+                  "val": 3360
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "IJq2Nrtq"
+            },
+            {
+              "descr": "",
+              "key": "Peaks Island Transfer Station",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 7531
+                },
+                {
+                  "year": "2016",
+                  "val": 7012
+                },
+                {
+                  "year": "2017",
+                  "val": 6700
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "OzC5CFET"
+            },
+            {
+              "descr": "",
+              "key": "STD Clinic",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 18573
+                },
+                {
+                  "year": "2016",
+                  "val": 19598
+                },
+                {
+                  "year": "2017",
+                  "val": 5234
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "WqiXuqE4"
+            },
+            {
+              "descr": "",
+              "key": "Clinic Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 42877
+                },
+                {
+                  "year": "2016",
+                  "val": 19443
+                },
+                {
+                  "year": "2017",
+                  "val": 30602
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "UaPECfH3"
+            },
+            {
+              "descr": "",
+              "key": "Medicaid Reimbursement",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 133490
+                },
+                {
+                  "year": "2016",
+                  "val": 93169
+                },
+                {
+                  "year": "2017",
+                  "val": 232215
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "M5jXgkIt"
+            },
+            {
+              "descr": "",
+              "key": "Patient Receipts",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 19478682
+                },
+                {
+                  "year": "2016",
+                  "val": 20737290
+                },
+                {
+                  "year": "2017",
+                  "val": 20479397
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "2rQ4mx0X"
+            },
+            {
+              "descr": "",
+              "key": "Non-Patient Receipts",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 465203
+                },
+                {
+                  "year": "2016",
+                  "val": 446669
+                },
+                {
+                  "year": "2017",
+                  "val": 469786
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Y9JThH95"
+            },
+            {
+              "descr": "",
+              "key": "Less: Returns / Allowances",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": -3276906
+                },
+                {
+                  "year": "2016",
+                  "val": -1565969
+                },
+                {
+                  "year": "2017",
+                  "val": -1819724
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "2LVa5b1L"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Daily Play",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 377788
+                },
+                {
+                  "year": "2016",
+                  "val": 377223
+                },
+                {
+                  "year": "2017",
+                  "val": 381000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "9uJzMCKI"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Gift Certificates",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 25
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "82jnE7aY"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Passholders",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 238045
+                },
+                {
+                  "year": "2016",
+                  "val": 235000
+                },
+                {
+                  "year": "2017",
+                  "val": 239665
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "2lK4b3Wc"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Pro Shop",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 46978
+                },
+                {
+                  "year": "2016",
+                  "val": 43519
+                },
+                {
+                  "year": "2017",
+                  "val": 44000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "DJ2rJKWD"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Tournaments",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 50435
+                },
+                {
+                  "year": "2016",
+                  "val": 45077
+                },
+                {
+                  "year": "2017",
+                  "val": 45500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "SPczMj8X"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Lockers",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 5310
+                },
+                {
+                  "year": "2016",
+                  "val": 4656
+                },
+                {
+                  "year": "2017",
+                  "val": 4145
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "hImMcOB9"
+            },
+            {
+              "descr": "",
+              "key": "Golf Course Cart Rentals",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 175674
+                },
+                {
+                  "year": "2016",
+                  "val": 175000
+                },
+                {
+                  "year": "2017",
+                  "val": 185014
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "lTnnrXbL"
+            },
+            {
+              "descr": "",
+              "key": "Ice Arena Vendoring",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 12775
+                },
+                {
+                  "year": "2016",
+                  "val": 14000
+                },
+                {
+                  "year": "2017",
+                  "val": 14000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "vgNJJiIz"
+            },
+            {
+              "descr": "",
+              "key": "Ice Arena Advertising",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3100
+                },
+                {
+                  "year": "2016",
+                  "val": 4000
+                },
+                {
+                  "year": "2017",
+                  "val": 4000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "jHWrhxSw"
+            },
+            {
+              "descr": "",
+              "key": "Ice Arena Concessions",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 16102
+                },
+                {
+                  "year": "2016",
+                  "val": 14503
+                },
+                {
+                  "year": "2017",
+                  "val": 15000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "D00z0I6D"
+            },
+            {
+              "descr": "",
+              "key": "Ice Rentals",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 530223
+                },
+                {
+                  "year": "2016",
+                  "val": 541558
+                },
+                {
+                  "year": "2017",
+                  "val": 541560
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "odsaZJDo"
+            },
+            {
+              "descr": "",
+              "key": "Cultural / Recreation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 149444
+                },
+                {
+                  "year": "2016",
+                  "val": 149800
+                },
+                {
+                  "year": "2017",
+                  "val": 160910
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "9JvdXSp3"
+            },
+            {
+              "descr": "",
+              "key": "Burials",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 130064
+                },
+                {
+                  "year": "2016",
+                  "val": 179690
+                },
+                {
+                  "year": "2017",
+                  "val": 152789
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "K1iZdqAF"
+            },
+            {
+              "descr": "",
+              "key": "Foundations",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 21043
+                },
+                {
+                  "year": "2016",
+                  "val": 20481
+                },
+                {
+                  "year": "2017",
+                  "val": 21000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "3Ukf5wIA"
+            },
+            {
+              "descr": "",
+              "key": "Annual Care",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 100
+                },
+                {
+                  "year": "2016",
+                  "val": 100
+                },
+                {
+                  "year": "2017",
+                  "val": 100
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "dqj1xT3G"
+            },
+            {
+              "descr": "",
+              "key": "Plants",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2970
+                },
+                {
+                  "year": "2016",
+                  "val": 3500
+                },
+                {
+                  "year": "2017",
+                  "val": 3500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "86iXD1KH"
+            },
+            {
+              "descr": "",
+              "key": "Vault Cover Placements",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 16865
+                },
+                {
+                  "year": "2016",
+                  "val": 20105
+                },
+                {
+                  "year": "2017",
+                  "val": 19995
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ALgHE1Z1"
+            },
+            {
+              "descr": "",
+              "key": "Lot Sales",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 46814
+                },
+                {
+                  "year": "2016",
+                  "val": 46938
+                },
+                {
+                  "year": "2017",
+                  "val": 82161
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "06IqbkO6"
+            },
+            {
+              "descr": "",
+              "key": "Swimming",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 199850
+                },
+                {
+                  "year": "2016",
+                  "val": 211404
+                },
+                {
+                  "year": "2017",
+                  "val": 218302
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "qNcIFLq4"
+            },
+            {
+              "descr": "",
+              "key": "Camps",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 291776
+                },
+                {
+                  "year": "2016",
+                  "val": 301760
+                },
+                {
+                  "year": "2017",
+                  "val": 305958
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "YNa1C0a0"
+            },
+            {
+              "descr": "",
+              "key": "Before & After School Bell Program",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 916993
+                },
+                {
+                  "year": "2016",
+                  "val": 917016
+                },
+                {
+                  "year": "2017",
+                  "val": 950000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "RYkz8W6X"
+            },
+            {
+              "descr": "",
+              "key": "East End Boat Launch",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 19589
+                },
+                {
+                  "year": "2016",
+                  "val": 18533
+                },
+                {
+                  "year": "2017",
+                  "val": 18550
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "B6E20xEp"
+            },
+            {
+              "descr": "",
+              "key": "Donations",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 28211
+                },
+                {
+                  "year": "2016",
+                  "val": 128183
+                },
+                {
+                  "year": "2017",
+                  "val": 72211
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "NFpwx2wW"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 32717407
+            },
+            {
+              "year": "2016",
+              "val": 36059936
+            },
+            {
+              "year": "2017",
+              "val": 36128810
+            },
+            {
+              "year": "2018",
+              "val": 36661015
+            }
+          ],
+          "hash": "YmRmdUuj"
+        },
+        {
+          "descr": "",
+          "key": "Fines, Forfeits, and Penalties",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Code Violations",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 79136
+                },
+                {
+                  "year": "2016",
+                  "val": 78882
+                },
+                {
+                  "year": "2017",
+                  "val": 92850
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "oMJBTnui"
+            },
+            {
+              "descr": "",
+              "key": "Denver Boot",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 95240
+                },
+                {
+                  "year": "2016",
+                  "val": 95000
+                },
+                {
+                  "year": "2017",
+                  "val": 95000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "z9va3t87"
+            },
+            {
+              "descr": "",
+              "key": "Parking Tickets",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2202165
+                },
+                {
+                  "year": "2016",
+                  "val": 1975000
+                },
+                {
+                  "year": "2017",
+                  "val": 2100000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "lkqN6ATw"
+            },
+            {
+              "descr": "",
+              "key": "Restaurant Inspections",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 1725
+                },
+                {
+                  "year": "2017",
+                  "val": 1750
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "ab3JTz1N"
+            },
+            {
+              "descr": "",
+              "key": "Restaurant Reinspections",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 6840
+                },
+                {
+                  "year": "2017",
+                  "val": 4500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "MNGrcIWA"
+            },
+            {
+              "descr": "",
+              "key": "Solid Waste",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 330
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FukNz1mL"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 2376871
+            },
+            {
+              "year": "2016",
+              "val": 2157447
+            },
+            {
+              "year": "2017",
+              "val": 2294100
+            },
+            {
+              "year": "2018",
+              "val": 2090250
+            }
+          ],
+          "hash": "wTLFoEKh"
+        },
+        {
+          "descr": "",
+          "key": "Uses of Money & Property",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Interest Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 420529
+                },
+                {
+                  "year": "2016",
+                  "val": 425004
+                },
+                {
+                  "year": "2017",
+                  "val": 425000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "tKy9Qa9I"
+            },
+            {
+              "descr": "",
+              "key": "Kehoe Trust Fund",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 17295
+                },
+                {
+                  "year": "2016",
+                  "val": 16434
+                },
+                {
+                  "year": "2017",
+                  "val": 16434
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FA6DCwM1"
+            },
+            {
+              "descr": "",
+              "key": "Rental Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 232577
+                },
+                {
+                  "year": "2016",
+                  "val": 302528
+                },
+                {
+                  "year": "2017",
+                  "val": 347905
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "lQ9af2zz"
+            },
+            {
+              "descr": "",
+              "key": "Primary Tenant",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 375094
+                },
+                {
+                  "year": "2016",
+                  "val": 364330
+                },
+                {
+                  "year": "2017",
+                  "val": 379000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "QiVo79qn"
+            },
+            {
+              "descr": "",
+              "key": "Commercial",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 328004
+                },
+                {
+                  "year": "2016",
+                  "val": 371686
+                },
+                {
+                  "year": "2017",
+                  "val": 386400
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "dSRM7USB"
+            },
+            {
+              "descr": "",
+              "key": "Non-commercial",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 385020
+                },
+                {
+                  "year": "2016",
+                  "val": 405173
+                },
+                {
+                  "year": "2017",
+                  "val": 375500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "0WOFm1ob"
+            },
+            {
+              "descr": "",
+              "key": "Food Service",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 664947
+                },
+                {
+                  "year": "2016",
+                  "val": 731452
+                },
+                {
+                  "year": "2017",
+                  "val": 745500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "lCPVALV9"
+            },
+            {
+              "descr": "",
+              "key": "Merchandising",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 17354
+                },
+                {
+                  "year": "2016",
+                  "val": 25250
+                },
+                {
+                  "year": "2017",
+                  "val": 21500
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "bvBNtA0t"
+            },
+            {
+              "descr": "",
+              "key": "Advertising",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 59211
+                },
+                {
+                  "year": "2016",
+                  "val": 35239
+                },
+                {
+                  "year": "2017",
+                  "val": 35000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "UjrvisOr"
+            },
+            {
+              "descr": "",
+              "key": "Vending",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 11257
+                },
+                {
+                  "year": "2016",
+                  "val": 12384
+                },
+                {
+                  "year": "2017",
+                  "val": 13000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "K8kvN9e4"
+            },
+            {
+              "descr": "",
+              "key": "Box Office",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 48423
+                },
+                {
+                  "year": "2016",
+                  "val": 60615
+                },
+                {
+                  "year": "2017",
+                  "val": 59480
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "nKdLJFj4"
+            },
+            {
+              "descr": "",
+              "key": "Parking Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 9587
+                },
+                {
+                  "year": "2016",
+                  "val": 14855
+                },
+                {
+                  "year": "2017",
+                  "val": 10960
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Y1c6oChe"
+            },
+            {
+              "descr": "",
+              "key": "Ground Rent",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 151014
+                },
+                {
+                  "year": "2016",
+                  "val": 188170
+                },
+                {
+                  "year": "2017",
+                  "val": 191525
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "o1IjnZe5"
+            },
+            {
+              "descr": "",
+              "key": "94 Free Street Lease",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 20917
+                },
+                {
+                  "year": "2016",
+                  "val": 23044
+                },
+                {
+                  "year": "2017",
+                  "val": 23282
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "0VeSO6h7"
+            },
+            {
+              "descr": "",
+              "key": "Garages, Lots, Meters",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 921145
+                },
+                {
+                  "year": "2016",
+                  "val": 910000
+                },
+                {
+                  "year": "2017",
+                  "val": 920000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "cyZ9fxUD"
+            },
+            {
+              "descr": "",
+              "key": "Hourly Parking",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 738106
+                },
+                {
+                  "year": "2016",
+                  "val": 738000
+                },
+                {
+                  "year": "2017",
+                  "val": 765000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "27mRi98D"
+            },
+            {
+              "descr": "",
+              "key": "Monthly Parking",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 964097
+                },
+                {
+                  "year": "2016",
+                  "val": 1024385
+                },
+                {
+                  "year": "2017",
+                  "val": 1142640
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "2jakf3Xd"
+            },
+            {
+              "descr": "",
+              "key": "Library",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 13588
+                },
+                {
+                  "year": "2016",
+                  "val": 14500
+                },
+                {
+                  "year": "2017",
+                  "val": 14000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "6RCNItps"
+            },
+            {
+              "descr": "",
+              "key": "Thames Street Lot",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 148735
+                },
+                {
+                  "year": "2016",
+                  "val": 150000
+                },
+                {
+                  "year": "2017",
+                  "val": 150000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "M52Hlkn8"
+            },
+            {
+              "descr": "",
+              "key": "Angelos Acre",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1300
+                },
+                {
+                  "year": "2016",
+                  "val": 9995
+                },
+                {
+                  "year": "2017",
+                  "val": 10000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "RWvyFKHf"
+            },
+            {
+              "descr": "",
+              "key": "Parking Meters",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2353118
+                },
+                {
+                  "year": "2016",
+                  "val": 2380000
+                },
+                {
+                  "year": "2017",
+                  "val": 2510000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Unr5tX0Q"
+            },
+            {
+              "descr": "",
+              "key": "Parking Annual Lot Rentals",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1000
+                },
+                {
+                  "year": "2016",
+                  "val": 2000
+                },
+                {
+                  "year": "2017",
+                  "val": 1000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "KCdTo8NN"
+            },
+            {
+              "descr": "",
+              "key": "Snow Tow Lot",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 49930
+                },
+                {
+                  "year": "2016",
+                  "val": 79200
+                },
+                {
+                  "year": "2017",
+                  "val": 79200
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "3v94SYUV"
+            },
+            {
+              "descr": "",
+              "key": "Cultural / Recreation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 157306
+                },
+                {
+                  "year": "2016",
+                  "val": 175000
+                },
+                {
+                  "year": "2017",
+                  "val": 175000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "K2ggjz5w"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 8089554
+            },
+            {
+              "year": "2016",
+              "val": 8459244
+            },
+            {
+              "year": "2017",
+              "val": 8797326
+            },
+            {
+              "year": "2018",
+              "val": 10070840
+            }
+          ],
+          "hash": "upAh6oGt"
+        },
+        {
+          "descr": "",
+          "key": "Other Financing Resources",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Operating Transfers In",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 752998
+                },
+                {
+                  "year": "2016",
+                  "val": 1491774
+                },
+                {
+                  "year": "2017",
+                  "val": 865882
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "fkkFfmgd"
+            },
+            {
+              "descr": "",
+              "key": "Sale Of City Property",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 357952
+                },
+                {
+                  "year": "2016",
+                  "val": 230000
+                },
+                {
+                  "year": "2017",
+                  "val": 175000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "F7GEMnRa"
+            },
+            {
+              "descr": "",
+              "key": "HCD Charges",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 457000
+                },
+                {
+                  "year": "2016",
+                  "val": 517538
+                },
+                {
+                  "year": "2017",
+                  "val": 561159
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "r4MqS0Ss"
+            },
+            {
+              "descr": "",
+              "key": "Fund Balance Appropriation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "tvEmrtxN"
+            },
+            {
+              "descr": "",
+              "key": "Enterprise Fund Charges",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 12378545
+                },
+                {
+                  "year": "2016",
+                  "val": 12768832
+                },
+                {
+                  "year": "2017",
+                  "val": 14037241
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FFqrIem8"
+            },
+            {
+              "descr": "",
+              "key": "School Department Charges",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 9660477
+                },
+                {
+                  "year": "2016",
+                  "val": 9200627
+                },
+                {
+                  "year": "2017",
+                  "val": 9061783
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "JfrZ3Qzb"
+            },
+            {
+              "descr": "",
+              "key": "Spec Rev / Endow Fd Chgs",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 169532
+                },
+                {
+                  "year": "2016",
+                  "val": 173234
+                },
+                {
+                  "year": "2017",
+                  "val": 318471
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "LQtiyXkJ"
+            },
+            {
+              "descr": "",
+              "key": "Misc. Reimbursements",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 914552
+                },
+                {
+                  "year": "2016",
+                  "val": 952020
+                },
+                {
+                  "year": "2017",
+                  "val": 919907
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "G0B95Mel"
+            },
+            {
+              "descr": "",
+              "key": "Fringe Benefits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 492954
+                },
+                {
+                  "year": "2016",
+                  "val": 233232
+                },
+                {
+                  "year": "2017",
+                  "val": 288796
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Fymt066M"
+            },
+            {
+              "descr": "",
+              "key": "Non-State Social Service",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 52283
+                },
+                {
+                  "year": "2016",
+                  "val": 86500
+                },
+                {
+                  "year": "2017",
+                  "val": 35000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "uBwi0B0r"
+            },
+            {
+              "descr": "",
+              "key": "Other General Fund Accts",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 389030
+                },
+                {
+                  "year": "2016",
+                  "val": 393000
+                },
+                {
+                  "year": "2017",
+                  "val": 403110
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "XhTXpyht"
+            },
+            {
+              "descr": "",
+              "key": "CIP Charges",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 277000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "iL64IRCN"
+            },
+            {
+              "descr": "",
+              "key": "Grant Reiumbursements",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4693690
+                },
+                {
+                  "year": "2016",
+                  "val": 3640983
+                },
+                {
+                  "year": "2017",
+                  "val": 3989645
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "3o0UL1m3"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 30319013
+            },
+            {
+              "year": "2016",
+              "val": 29687740
+            },
+            {
+              "year": "2017",
+              "val": 30932994
+            },
+            {
+              "year": "2018",
+              "val": 29245462
+            }
+          ],
+          "hash": "cFLlx5Dc"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 172250571
+        },
+        {
+          "year": "2016",
+          "val": 183071827
+        },
+        {
+          "year": "2017",
+          "val": 186271885
+        },
+        {
+          "year": "2018",
+          "val": 189380177
+        }
+      ],
+      "hash": "Yt2glClL"
+    },
+    {
+      "descr": "",
+      "key": "Enterprise",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "Fish Pier Fund",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Misc. Charges for Services",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 24721
+                },
+                {
+                  "year": "2016",
+                  "val": 14440
+                },
+                {
+                  "year": "2017",
+                  "val": 14655
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FfD1qPoJ"
+            },
+            {
+              "descr": "",
+              "key": "Berthing Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 29376
+                },
+                {
+                  "year": "2016",
+                  "val": 29376
+                },
+                {
+                  "year": "2017",
+                  "val": 29376
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "pJZt1VyG"
+            },
+            {
+              "descr": "",
+              "key": "Parking Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 271980
+                },
+                {
+                  "year": "2016",
+                  "val": 288398
+                },
+                {
+                  "year": "2017",
+                  "val": 305750
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "wByaMwXP"
+            },
+            {
+              "descr": "",
+              "key": "Ground Rent",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 163474
+                },
+                {
+                  "year": "2016",
+                  "val": 169764
+                },
+                {
+                  "year": "2017",
+                  "val": 172266
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "QGzkAwtb"
+            },
+            {
+              "descr": "",
+              "key": "Fund Balance Appropriation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": -169183
+                },
+                {
+                  "year": "2017",
+                  "val": -179314
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "AhhxwuCQ"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 489551
+            },
+            {
+              "year": "2016",
+              "val": 332795
+            },
+            {
+              "year": "2017",
+              "val": 342733
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "9ZkUsJNU"
+        },
+        {
+          "descr": "",
+          "key": "Sewer Fund",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Sewer Connects",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 20850
+                },
+                {
+                  "year": "2016",
+                  "val": 20000
+                },
+                {
+                  "year": "2017",
+                  "val": 22900
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "F1kVqmss"
+            },
+            {
+              "descr": "",
+              "key": "Misc. Licenses and Permits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 12450
+                },
+                {
+                  "year": "2016",
+                  "val": 3650
+                },
+                {
+                  "year": "2017",
+                  "val": 2550
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "47W2LOn5"
+            },
+            {
+              "descr": "",
+              "key": "Federal Pass Thru Grants",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2400
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Ntyuyav7"
+            },
+            {
+              "descr": "",
+              "key": "Misc. Charges for Services",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 29456
+                },
+                {
+                  "year": "2016",
+                  "val": 21137
+                },
+                {
+                  "year": "2017",
+                  "val": 18000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "rHbUXdyQ"
+            },
+            {
+              "descr": "",
+              "key": "Lien and Foreclosure Cost",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 19784
+                },
+                {
+                  "year": "2016",
+                  "val": 9268
+                },
+                {
+                  "year": "2017",
+                  "val": 10000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Z7ZYbBBB"
+            },
+            {
+              "descr": "",
+              "key": "Residential Sewer Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 13238089
+                },
+                {
+                  "year": "2016",
+                  "val": 13407479
+                },
+                {
+                  "year": "2017",
+                  "val": 13185315
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "kgtOirgP"
+            },
+            {
+              "descr": "",
+              "key": "Commercial Sewer Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 6798478
+                },
+                {
+                  "year": "2016",
+                  "val": 6989197
+                },
+                {
+                  "year": "2017",
+                  "val": 6771466
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "KJGCguG0"
+            },
+            {
+              "descr": "",
+              "key": "Industrial Sewer Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1571450
+                },
+                {
+                  "year": "2016",
+                  "val": 1585765
+                },
+                {
+                  "year": "2017",
+                  "val": 1571004
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "yhHU2X5w"
+            },
+            {
+              "descr": "",
+              "key": "Government Sewer Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 831041
+                },
+                {
+                  "year": "2016",
+                  "val": 824026
+                },
+                {
+                  "year": "2017",
+                  "val": 833625
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "BixYQq4I"
+            },
+            {
+              "descr": "",
+              "key": "Commercial Surcharge Inc.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 123845
+                },
+                {
+                  "year": "2016",
+                  "val": 115015
+                },
+                {
+                  "year": "2017",
+                  "val": 150000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "zVlUcbVl"
+            },
+            {
+              "descr": "",
+              "key": "Industrial Surcharge Inc.",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 243982
+                },
+                {
+                  "year": "2016",
+                  "val": 249939
+                },
+                {
+                  "year": "2017",
+                  "val": 250000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "DYW43Xfg"
+            },
+            {
+              "descr": "",
+              "key": "Interest Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 34822
+                },
+                {
+                  "year": "2016",
+                  "val": 31962
+                },
+                {
+                  "year": "2017",
+                  "val": 26000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "67Ztw4pm"
+            },
+            {
+              "descr": "",
+              "key": "Interest / Penalty Delinquencies",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 34073
+                },
+                {
+                  "year": "2016",
+                  "val": 25083
+                },
+                {
+                  "year": "2017",
+                  "val": 25000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "zYY6SFb6"
+            },
+            {
+              "descr": "",
+              "key": "Fund Balance Appropriation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": -7257262
+                },
+                {
+                  "year": "2017",
+                  "val": 517582
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Mi3GrIHM"
+            },
+            {
+              "descr": "",
+              "key": "Enterprise Fund Charges",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 231700
+                },
+                {
+                  "year": "2017",
+                  "val": 199651
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "GCjCjzkR"
+            },
+            {
+              "descr": "",
+              "key": "Spec Rev / Endow Fd Chgs",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 27733
+                },
+                {
+                  "year": "2016",
+                  "val": 38376
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "iCxZnYIr"
+            },
+            {
+              "descr": "",
+              "key": "Fringe Benefits",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 64969
+                },
+                {
+                  "year": "2017",
+                  "val": 94932
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "oRsw9bFe"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 22988453
+            },
+            {
+              "year": "2016",
+              "val": 16360304
+            },
+            {
+              "year": "2017",
+              "val": 23678025
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "mGXfwBx2"
+        },
+        {
+          "descr": "",
+          "key": "Stormwater Fund",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Stormwater User Fees (inc. Fund Balance Appropriation)",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 2562200
+                },
+                {
+                  "year": "2017",
+                  "val": 6220300
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "gnR0VS2X"
+            },
+            {
+              "descr": "",
+              "key": "Fund Balance Appropriation",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": -229320
+                },
+                {
+                  "year": "2017",
+                  "val": -2108788
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "plNL150B"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 0
+            },
+            {
+              "year": "2016",
+              "val": 2332880
+            },
+            {
+              "year": "2017",
+              "val": 4111512
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "ul6kk9Rq"
+        },
+        {
+          "descr": "",
+          "key": "Jetport Fund",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Business Licenses",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 127984
+                },
+                {
+                  "year": "2016",
+                  "val": 122968
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "pqdE4fqR"
+            },
+            {
+              "descr": "",
+              "key": "New Federal Pass Thru Grants",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 126175
+                },
+                {
+                  "year": "2016",
+                  "val": 116800
+                },
+                {
+                  "year": "2017",
+                  "val": 116800
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "FrcZn7u4"
+            },
+            {
+              "descr": "",
+              "key": "State of Maine",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 75406
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "rgMu6F6J"
+            },
+            {
+              "descr": "",
+              "key": "Misc. Charges for Services",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1007737
+                },
+                {
+                  "year": "2016",
+                  "val": 800379
+                },
+                {
+                  "year": "2017",
+                  "val": 852210
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "9S4LLvuk"
+            },
+            {
+              "descr": "",
+              "key": "Interest Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 129681
+                },
+                {
+                  "year": "2016",
+                  "val": 119087
+                },
+                {
+                  "year": "2017",
+                  "val": 120000
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "Gttq5w1K"
+            },
+            {
+              "descr": "",
+              "key": "Parking Income",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 6475767
+                },
+                {
+                  "year": "2016",
+                  "val": 6357642
+                },
+                {
+                  "year": "2017",
+                  "val": 6410288
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "EsR8Ee1n"
+            },
+            {
+              "descr": "",
+              "key": "Concessions",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1363565
+                },
+                {
+                  "year": "2016",
+                  "val": 1368653
+                },
+                {
+                  "year": "2017",
+                  "val": 1404677
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "AqFFXrNm"
+            },
+            {
+              "descr": "",
+              "key": "Ground Rent",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 403412
+                },
+                {
+                  "year": "2016",
+                  "val": 416735
+                },
+                {
+                  "year": "2017",
+                  "val": 419908
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "WDYyAbQf"
+            },
+            {
+              "descr": "",
+              "key": "Landing Fees",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2832098
+                },
+                {
+                  "year": "2016",
+                  "val": 3278024
+                },
+                {
+                  "year": "2017",
+                  "val": 3472468
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "swzz9DHX"
+            },
+            {
+              "descr": "",
+              "key": "Terminal Rental",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 4168623
+                },
+                {
+                  "year": "2016",
+                  "val": 4203244
+                },
+                {
+                  "year": "2017",
+                  "val": 4447376
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "dyiCxEl4"
+            },
+            {
+              "descr": "",
+              "key": "Commissions - Car Rentals",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 3906499
+                },
+                {
+                  "year": "2016",
+                  "val": 3922902
+                },
+                {
+                  "year": "2017",
+                  "val": 4036108
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "VkJOxmXY"
+            },
+            {
+              "descr": "",
+              "key": "Car-Service Facility",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 31477
+                },
+                {
+                  "year": "2016",
+                  "val": 31739
+                },
+                {
+                  "year": "2017",
+                  "val": 32054
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "xz7GJXMB"
+            },
+            {
+              "descr": "",
+              "key": "Car Rental - Terminal Use",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 123238
+                },
+                {
+                  "year": "2016",
+                  "val": 123238
+                },
+                {
+                  "year": "2017",
+                  "val": 123238
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "6m4nq5dK"
+            },
+            {
+              "descr": "",
+              "key": "Cargo Revenue",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 325683
+                },
+                {
+                  "year": "2016",
+                  "val": 306732
+                },
+                {
+                  "year": "2017",
+                  "val": 342310
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "F9vfuhNF"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 21097345
+            },
+            {
+              "year": "2016",
+              "val": 21168143
+            },
+            {
+              "year": "2017",
+              "val": 21777437
+            },
+            {
+              "year": "2018",
+              "val": 0
+            }
+          ],
+          "hash": "RFfOsf8L"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 44575349
+        },
+        {
+          "year": "2016",
+          "val": 40194122
+        },
+        {
+          "year": "2017",
+          "val": 49909707
+        },
+        {
+          "year": "2018",
+          "val": 51049829
+        }
+      ],
+      "hash": "LoX5QoHy"
+    },
+    {
+      "descr": "",
+      "key": "School Dept.",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "General Fund",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "State",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "State Agency Client",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 364872
+                    },
+                    {
+                      "year": "2016",
+                      "val": 370000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 300000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 300000
+                    }
+                  ],
+                  "hash": "W1QjWcPh"
+                },
+                {
+                  "descr": "",
+                  "key": "State Subsidy - EPS",
+                  "src": "",
+                  "sub": [
+                    {
+                      "descr": "",
+                      "key": "State Share EPS",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 13481328
+                        },
+                        {
+                          "year": "2018",
+                          "val": 11401332
+                        }
+                      ],
+                      "hash": "tIE4CnqP"
+                    },
+                    {
+                      "descr": "",
+                      "key": "State Reimbursed Debt Service",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 1725393
+                        },
+                        {
+                          "year": "2018",
+                          "val": 1686134
+                        }
+                      ],
+                      "hash": "OB7jpfKI"
+                    }
+                  ],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 15697221
+                    },
+                    {
+                      "year": "2016",
+                      "val": 16734100
+                    },
+                    {
+                      "year": "2017",
+                      "val": 15206721
+                    },
+                    {
+                      "year": "2018",
+                      "val": 13087466
+                    }
+                  ],
+                  "hash": "tMfLIZ37"
+                },
+                {
+                  "descr": "",
+                  "key": "Nat'l Board - Prof Teaching Salary Supplement",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 38100
+                    },
+                    {
+                      "year": "2016",
+                      "val": 38100
+                    },
+                    {
+                      "year": "2017",
+                      "val": 75600
+                    },
+                    {
+                      "year": "2018",
+                      "val": 70350
+                    }
+                  ],
+                  "hash": "6QL05zrs"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 16100193
+                },
+                {
+                  "year": "2016",
+                  "val": 17142200
+                },
+                {
+                  "year": "2017",
+                  "val": 15582321
+                },
+                {
+                  "year": "2018",
+                  "val": 13457816
+                }
+              ],
+              "hash": "Wy7kdVTV"
+            },
+            {
+              "descr": "",
+              "key": "Federal",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "Refund Prior Year Expense K-8",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 0
+                    },
+                    {
+                      "year": "2016",
+                      "val": 62000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 33990
+                    },
+                    {
+                      "year": "2018",
+                      "val": 0
+                    }
+                  ],
+                  "hash": "4YXlXyc4"
+                },
+                {
+                  "descr": "",
+                  "key": "Refund Prior Year Expense 9-12",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 0
+                    },
+                    {
+                      "year": "2016",
+                      "val": 28000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 15416
+                    },
+                    {
+                      "year": "2018",
+                      "val": 0
+                    }
+                  ],
+                  "hash": "7c4WnPtJ"
+                },
+                {
+                  "descr": "",
+                  "key": "MaineCare Medicaid Reimbursement",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 580048
+                    },
+                    {
+                      "year": "2016",
+                      "val": 575000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 500000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 500000
+                    }
+                  ],
+                  "hash": "Qyxsdaop"
+                },
+                {
+                  "descr": "",
+                  "key": "Federal Impact Aid",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 46816
+                    },
+                    {
+                      "year": "2016",
+                      "val": 30000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 40000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 40000
+                    }
+                  ],
+                  "hash": "xNfUSZ2f"
+                },
+                {
+                  "descr": "",
+                  "key": "Federal Reimb - Telecom Services (E-Rate)",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 99096
+                    },
+                    {
+                      "year": "2016",
+                      "val": 0
+                    },
+                    {
+                      "year": "2017",
+                      "val": 0
+                    },
+                    {
+                      "year": "2018",
+                      "val": 0
+                    }
+                  ],
+                  "hash": "yHCDwvMY"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 725960
+                },
+                {
+                  "year": "2016",
+                  "val": 695000
+                },
+                {
+                  "year": "2017",
+                  "val": 589406
+                },
+                {
+                  "year": "2018",
+                  "val": 540000
+                }
+              ],
+              "hash": "Ausoen9V"
+            },
+            {
+              "descr": "",
+              "key": "Local",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "Other Local",
+                  "src": "",
+                  "sub": [
+                    {
+                      "descr": "",
+                      "key": "Tuition - Public K-8",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 100218
+                        },
+                        {
+                          "year": "2016",
+                          "val": 100000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 140000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 84000
+                        }
+                      ],
+                      "hash": "VirrcXKd"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Tuition - CTE Other Units",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 212640
+                        },
+                        {
+                          "year": "2016",
+                          "val": 190000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 175000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 195000
+                        }
+                      ],
+                      "hash": "fcf9PlSr"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Tuition - Summer School 9-12",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 19735
+                        },
+                        {
+                          "year": "2016",
+                          "val": 18000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 17000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 15000
+                        }
+                      ],
+                      "hash": "2hazMw61"
+                    },
+                    {
+                      "descr": "",
+                      "key": "PATHS - Part I & II Assesment",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 1802042
+                        },
+                        {
+                          "year": "2016",
+                          "val": 1860659
+                        },
+                        {
+                          "year": "2017",
+                          "val": 1818151
+                        },
+                        {
+                          "year": "2018",
+                          "val": 1974357
+                        }
+                      ],
+                      "hash": "OuokzZHB"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Transportation - Other Organizations",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 145270
+                        },
+                        {
+                          "year": "2016",
+                          "val": 100000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 125000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 125000
+                        }
+                      ],
+                      "hash": "zb6DiRBG"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Interest on Investments - Russell Trust Fund",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 3000
+                        },
+                        {
+                          "year": "2016",
+                          "val": 3000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 3000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 3000
+                        }
+                      ],
+                      "hash": "cfvSMMmn"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Admissions 9-12",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 23050
+                        },
+                        {
+                          "year": "2016",
+                          "val": 35000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 35000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 30000
+                        }
+                      ],
+                      "hash": "A42dtDJv"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Custodian Service - Building Rentals",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 51696
+                        },
+                        {
+                          "year": "2016",
+                          "val": 58000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 55000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 60000
+                        }
+                      ],
+                      "hash": "s0ch4wJz"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Miscellaneous Local Revenue",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 21341
+                        },
+                        {
+                          "year": "2016",
+                          "val": 10000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 12000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 7000
+                        }
+                      ],
+                      "hash": "n8LDqGyr"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Miscellaneous Sales & Refunds",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 546
+                        },
+                        {
+                          "year": "2016",
+                          "val": 1000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 500
+                        },
+                        {
+                          "year": "2018",
+                          "val": 500
+                        }
+                      ],
+                      "hash": "xNAGiIzG"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Tuition - Public 9-12",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 90000
+                        },
+                        {
+                          "year": "2018",
+                          "val": 121000
+                        }
+                      ],
+                      "hash": "3BPgPgP5"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Proceeds Disposal of Property",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 1000
+                        },
+                        {
+                          "year": "2017",
+                          "val": 0
+                        },
+                        {
+                          "year": "2018",
+                          "val": 0
+                        }
+                      ],
+                      "hash": "6VHWtJbK"
+                    }
+                  ],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 2379538
+                    },
+                    {
+                      "year": "2016",
+                      "val": 2465659
+                    },
+                    {
+                      "year": "2017",
+                      "val": 2470651
+                    },
+                    {
+                      "year": "2018",
+                      "val": 2614857
+                    }
+                  ],
+                  "hash": "vV6pzgQk"
+                },
+                {
+                  "descr": "",
+                  "key": "Property Taxes",
+                  "src": "",
+                  "sub": [
+                    {
+                      "descr": "",
+                      "key": "Required Local Share",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 63109880
+                        },
+                        {
+                          "year": "2018",
+                          "val": 64261317
+                        }
+                      ],
+                      "hash": "XcXzNA1I"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Local Only Debt Service",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 572216
+                        },
+                        {
+                          "year": "2018",
+                          "val": 496746
+                        }
+                      ],
+                      "hash": "kzKueO9m"
+                    },
+                    {
+                      "descr": "",
+                      "key": "Additional Local Funds",
+                      "src": "",
+                      "sub": [],
+                      "url": "",
+                      "values": [
+                        {
+                          "year": "2015",
+                          "val": 0
+                        },
+                        {
+                          "year": "2016",
+                          "val": 0
+                        },
+                        {
+                          "year": "2017",
+                          "val": 15331171
+                        },
+                        {
+                          "year": "2018",
+                          "val": 19597924
+                        }
+                      ],
+                      "hash": "g21DMvSG"
+                    }
+                  ],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 77469011
+                    },
+                    {
+                      "year": "2016",
+                      "val": 78073211
+                    },
+                    {
+                      "year": "2017",
+                      "val": 79013267
+                    },
+                    {
+                      "year": "2018",
+                      "val": 84355987
+                    }
+                  ],
+                  "hash": "RAN7NBJT"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 79948767
+                },
+                {
+                  "year": "2016",
+                  "val": 80638870
+                },
+                {
+                  "year": "2017",
+                  "val": 81483918
+                },
+                {
+                  "year": "2018",
+                  "val": 86970844
+                }
+              ],
+              "hash": "z8yQ3Kcb"
+            },
+            {
+              "descr": "",
+              "key": "Use of Funds - Carryover",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 415000
+                },
+                {
+                  "year": "2017",
+                  "val": 500000
+                },
+                {
+                  "year": "2018",
+                  "val": 500000
+                }
+              ],
+              "hash": "cmEHn327"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 96774920
+            },
+            {
+              "year": "2016",
+              "val": 98476070
+            },
+            {
+              "year": "2017",
+              "val": 98155645
+            },
+            {
+              "year": "2018",
+              "val": 101468660
+            }
+          ],
+          "hash": "RVTtdgBX"
+        },
+        {
+          "descr": "",
+          "key": "Adult Education",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Local",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "Tuition - Individual / Enrichment",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 106614
+                    },
+                    {
+                      "year": "2016",
+                      "val": 130000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 115000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 100000
+                    }
+                  ],
+                  "hash": "poISQ2JO"
+                },
+                {
+                  "descr": "",
+                  "key": "Tuition - Individual & Voc",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 67043
+                    },
+                    {
+                      "year": "2016",
+                      "val": 75000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 65000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 60000
+                    }
+                  ],
+                  "hash": "WOhOCYbz"
+                },
+                {
+                  "descr": "",
+                  "key": "Tuition - Other (Academic)",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 22997
+                    },
+                    {
+                      "year": "2016",
+                      "val": 30000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 25000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 30000
+                    }
+                  ],
+                  "hash": "sHlTUSVE"
+                },
+                {
+                  "descr": "",
+                  "key": "Property Taxes",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 0
+                    },
+                    {
+                      "year": "2016",
+                      "val": 0
+                    },
+                    {
+                      "year": "2017",
+                      "val": 1149033
+                    },
+                    {
+                      "year": "2018",
+                      "val": 1300113
+                    }
+                  ],
+                  "hash": "GaiWg9DK"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 196654
+                },
+                {
+                  "year": "2016",
+                  "val": 235000
+                },
+                {
+                  "year": "2017",
+                  "val": 1354033
+                },
+                {
+                  "year": "2018",
+                  "val": 1490113
+                }
+              ],
+              "hash": "fIHCqrZf"
+            },
+            {
+              "descr": "",
+              "key": "State",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "State Subsidy - Adult Education",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 453680
+                    },
+                    {
+                      "year": "2016",
+                      "val": 453680
+                    },
+                    {
+                      "year": "2017",
+                      "val": 453680
+                    },
+                    {
+                      "year": "2018",
+                      "val": 431864
+                    }
+                  ],
+                  "hash": "qmDYWZOq"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 453680
+                },
+                {
+                  "year": "2016",
+                  "val": 453680
+                },
+                {
+                  "year": "2017",
+                  "val": 453680
+                },
+                {
+                  "year": "2018",
+                  "val": 431864
+                }
+              ],
+              "hash": "XA98VGum"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 196654
+            },
+            {
+              "year": "2016",
+              "val": 235000
+            },
+            {
+              "year": "2017",
+              "val": 1807713
+            },
+            {
+              "year": "2018",
+              "val": 1921977
+            }
+          ],
+          "hash": "rX6OhpI2"
+        },
+        {
+          "descr": "",
+          "key": "Food Service",
+          "src": "",
+          "sub": [
+            {
+              "descr": "",
+              "key": "Refunds - School Nutrition",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 1673
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 0
+                },
+                {
+                  "year": "2018",
+                  "val": 0
+                }
+              ],
+              "hash": "63TGB53q"
+            },
+            {
+              "descr": "",
+              "key": "Local",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "Daily Sales - Lunch Program",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 281254
+                    },
+                    {
+                      "year": "2016",
+                      "val": 275639
+                    },
+                    {
+                      "year": "2017",
+                      "val": 257244
+                    },
+                    {
+                      "year": "2018",
+                      "val": 249769
+                    }
+                  ],
+                  "hash": "L6NAENoM"
+                },
+                {
+                  "descr": "",
+                  "key": "Daily Sales - a la Carte & Adults",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 190159
+                    },
+                    {
+                      "year": "2016",
+                      "val": 200000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 180000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 160237
+                    }
+                  ],
+                  "hash": "FqQjcTxu"
+                },
+                {
+                  "descr": "",
+                  "key": "Special Functions",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 14276
+                    },
+                    {
+                      "year": "2016",
+                      "val": 20000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 10000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 10000
+                    }
+                  ],
+                  "hash": "Z0fiMHhP"
+                },
+                {
+                  "descr": "",
+                  "key": "Building Rentals",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 0
+                    },
+                    {
+                      "year": "2016",
+                      "val": 9600
+                    },
+                    {
+                      "year": "2017",
+                      "val": 6000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 6000
+                    }
+                  ],
+                  "hash": "lyoxrFjs"
+                },
+                {
+                  "descr": "",
+                  "key": "Property Taxes",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 0
+                    },
+                    {
+                      "year": "2016",
+                      "val": 0
+                    },
+                    {
+                      "year": "2017",
+                      "val": 169076
+                    },
+                    {
+                      "year": "2018",
+                      "val": 137121
+                    }
+                  ],
+                  "hash": "LVTPM5UL"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 485689
+                },
+                {
+                  "year": "2016",
+                  "val": 505239
+                },
+                {
+                  "year": "2017",
+                  "val": 622320
+                },
+                {
+                  "year": "2018",
+                  "val": 563127
+                }
+              ],
+              "hash": "xM4nZaJW"
+            },
+            {
+              "descr": "",
+              "key": "State",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "School Meal Reimbursement",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 47224
+                    },
+                    {
+                      "year": "2016",
+                      "val": 40000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 28016
+                    },
+                    {
+                      "year": "2018",
+                      "val": 33848
+                    }
+                  ],
+                  "hash": "khincXuo"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 47224
+                },
+                {
+                  "year": "2016",
+                  "val": 40000
+                },
+                {
+                  "year": "2017",
+                  "val": 28016
+                },
+                {
+                  "year": "2018",
+                  "val": 33848
+                }
+              ],
+              "hash": "RsljAd4j"
+            },
+            {
+              "descr": "",
+              "key": "Federal",
+              "src": "",
+              "sub": [
+                {
+                  "descr": "",
+                  "key": "Federal Reimbursement - After School Snack",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 71547
+                    },
+                    {
+                      "year": "2016",
+                      "val": 64109
+                    },
+                    {
+                      "year": "2017",
+                      "val": 46000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 47884
+                    }
+                  ],
+                  "hash": "9l25ZtYl"
+                },
+                {
+                  "descr": "",
+                  "key": "Summer Food Program",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 31908
+                    },
+                    {
+                      "year": "2016",
+                      "val": 33101
+                    },
+                    {
+                      "year": "2017",
+                      "val": 30434
+                    },
+                    {
+                      "year": "2018",
+                      "val": 54130
+                    }
+                  ],
+                  "hash": "vV4lXMTL"
+                },
+                {
+                  "descr": "",
+                  "key": "Performance-Based Lunch",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 36292
+                    },
+                    {
+                      "year": "2016",
+                      "val": 37600
+                    },
+                    {
+                      "year": "2017",
+                      "val": 35842
+                    },
+                    {
+                      "year": "2018",
+                      "val": 34682
+                    }
+                  ],
+                  "hash": "kBhhb694"
+                },
+                {
+                  "descr": "",
+                  "key": "School Lunch - Regular",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 181459
+                    },
+                    {
+                      "year": "2016",
+                      "val": 184842
+                    },
+                    {
+                      "year": "2017",
+                      "val": 185182
+                    },
+                    {
+                      "year": "2018",
+                      "val": 184971
+                    }
+                  ],
+                  "hash": "i6urKsbb"
+                },
+                {
+                  "descr": "",
+                  "key": "School Lunch - Reduced Rate",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 78589
+                    },
+                    {
+                      "year": "2016",
+                      "val": 79686
+                    },
+                    {
+                      "year": "2017",
+                      "val": 50399
+                    },
+                    {
+                      "year": "2018",
+                      "val": 57918
+                    }
+                  ],
+                  "hash": "AZnwL4TP"
+                },
+                {
+                  "descr": "",
+                  "key": "School Lunch - Free",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 1252892
+                    },
+                    {
+                      "year": "2016",
+                      "val": 1277640
+                    },
+                    {
+                      "year": "2017",
+                      "val": 1313979
+                    },
+                    {
+                      "year": "2018",
+                      "val": 1333486
+                    }
+                  ],
+                  "hash": "K7vYiBsG"
+                },
+                {
+                  "descr": "",
+                  "key": "School Breakfast",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 825184
+                    },
+                    {
+                      "year": "2016",
+                      "val": 825000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 813704
+                    },
+                    {
+                      "year": "2018",
+                      "val": 832469
+                    }
+                  ],
+                  "hash": "qk9gzVAq"
+                },
+                {
+                  "descr": "",
+                  "key": "Payments in Lieu of Commerce",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 187286
+                    },
+                    {
+                      "year": "2016",
+                      "val": 196690
+                    },
+                    {
+                      "year": "2017",
+                      "val": 190000
+                    },
+                    {
+                      "year": "2018",
+                      "val": 180636
+                    }
+                  ],
+                  "hash": "iWRFp5WZ"
+                },
+                {
+                  "descr": "",
+                  "key": "Fresh Fruits & Vegetables Grant",
+                  "src": "",
+                  "sub": [],
+                  "url": "",
+                  "values": [
+                    {
+                      "year": "2015",
+                      "val": 85288
+                    },
+                    {
+                      "year": "2016",
+                      "val": 77000
+                    },
+                    {
+                      "year": "2017",
+                      "val": 73650
+                    },
+                    {
+                      "year": "2018",
+                      "val": 77750
+                    }
+                  ],
+                  "hash": "otO86so1"
+                }
+              ],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 2750445
+                },
+                {
+                  "year": "2016",
+                  "val": 2775668
+                },
+                {
+                  "year": "2017",
+                  "val": 2739190
+                },
+                {
+                  "year": "2018",
+                  "val": 2803926
+                }
+              ],
+              "hash": "QrGX2IoU"
+            },
+            {
+              "descr": "",
+              "key": "Fund Balance Carry Forward",
+              "src": "",
+              "sub": [],
+              "url": "",
+              "values": [
+                {
+                  "year": "2015",
+                  "val": 0
+                },
+                {
+                  "year": "2016",
+                  "val": 0
+                },
+                {
+                  "year": "2017",
+                  "val": 250000
+                },
+                {
+                  "year": "2018",
+                  "val": 250000
+                }
+              ],
+              "hash": "yQCbKq5L"
+            }
+          ],
+          "url": "",
+          "values": [
+            {
+              "year": "2015",
+              "val": 3285032
+            },
+            {
+              "year": "2016",
+              "val": 3320907
+            },
+            {
+              "year": "2017",
+              "val": 3639526
+            },
+            {
+              "year": "2018",
+              "val": 3650901
+            }
+          ],
+          "hash": "qLGsTT5M"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2015",
+          "val": 100256606
+        },
+        {
+          "year": "2016",
+          "val": 102031977
+        },
+        {
+          "year": "2017",
+          "val": 103602884
+        },
+        {
+          "year": "2018",
+          "val": 107041538
+        }
+      ],
+      "hash": "cJ0p78lv"
+    }
+  ],
+  "descr": "All sources of money to support town & school services. For more information, see the Glossary.",
+  "url": "",
+  "values": [
+    {
+      "val": 317082526,
+      "year": 2015
+    },
+    {
+      "val": 325297926,
+      "year": 2016
+    },
+    {
+      "val": 339784476,
+      "year": 2017
+    },
+    {
+      "val": 347471544,
+      "year": 2018
+    }
+  ]
+}

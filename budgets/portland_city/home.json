@@ -1,0 +1,88 @@
+{
+  "key": "root",
+  "src": "",
+  "hash": "63a9f0ea",
+  "sub": [
+    {
+      "key": "REVENUES TOTAL",
+      "src": "",
+      "hash": "07d40778",
+      "sub": [],
+      "descr": "",
+      "url": "",
+      "values": [
+        {
+          "val": 317507871,
+          "year": 2015
+        },
+        {
+          "val": 326042606,
+          "year": 2016
+        },
+        {
+          "val": 339784476,
+          "year": 2017
+        },
+        {
+          "val": 347471544,
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "key": "APPROPRIATIONS TOTAL",
+      "src": "",
+      "hash": "026f893f",
+      "sub": [],
+      "descr": "",
+      "url": "",
+      "values": [
+        {
+          "val": 322578505,
+          "year": 2015
+        },
+        {
+          "val": 327813183,
+          "year": 2016
+        },
+        {
+          "val": 339784476,
+          "year": 2017
+        },
+        {
+          "val": 347471543,
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "key": "FUNDS TOTAL",
+      "src": "",
+      "hash": "032862cb",
+      "sub": [],
+      "descr": "",
+      "url": "",
+      "values": [
+        {
+          "val": 841156740,
+          "year": 2015
+        },
+        {
+          "val": 865959492,
+          "year": 2016
+        },
+        {
+          "val": 0,
+          "year": 2017
+        },
+        {
+          "val": 0,
+          "year": 2018
+        }
+      ]
+    }
+  ],
+  "descr": "",
+  "url": "",
+  "values": []
+}
