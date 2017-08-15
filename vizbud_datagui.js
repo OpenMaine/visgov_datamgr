@@ -1,18 +1,5 @@
 
 
-config = {
-
-	activeYears : ["2015", "2016", "2017", "2018"],
-
-	dataSetList : [
-		{ name : "Home", 	path : "home.json"},
-		{ name: "Expenses", path : "expenses.json" },
-		{ name: "Revenues", path : "revenues.json" },
-		{ name: "Funds", 	path : "funds.json" }
-	]
-}
-
-
 
 var app = angular.module('vbGuiApp', ['ui.bootstrap']);
 
@@ -22,8 +9,6 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 		window.$scope = $scope;
 
 		$scope.init = function(){
-			$scope.config = config;
-			$scope.selectedSet = config.dataSetList[0];
 			$scope.getBudgetList();
 			$scope.view = 'multi';
 		}
@@ -44,6 +29,7 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 				method : 'POST',
 				data: {
 					api : "synchFile",
+					budgetSlug : $scope.selectedBudget.slug,
 					fileName : $scope.selectedSet.path
 				}
 			}
@@ -84,13 +70,32 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 
 			$http(req).then(function successCallback(response) {
 				$scope.reset();
-				$scope.budgetList = response.data;
+				$scope.budgetList = [];
+				$.each(response.data, function(index, budget){
+					$scope.budgetList.push({
+						"slug" : budget.slug,
+						"label" : budget.slug.replace('_', ' '),
+						"schema" : budget.schema
+					});
+				})
+
+				console.log($scope.budgetList);
+
+				$scope.selectedBudget = $scope.budgetList[0];
+				$scope.selectedSet = $scope.selectedBudget.schema.dataSetList[0];
+				$scope.synchDataset();
+
+
+
 			}, function errorCallback(response) {
 				console.log("can't find data set")
 			});
 		}
 
-
+		$scope.loadBudget = function(){
+			$scope.selectedSet = $scope.selectedBudget.schema.dataSetList[0];
+			$scope.synchDataset();
+		}
 
 		$scope.reset = function(){
 			$scope.catHash = [];
@@ -163,9 +168,9 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 				values : [],
 				hash: createGUID(8)
 			}
-			for(var i = 0; i < config.activeYears.length; i++){
+			for(var i = 0; i < $scope.selectedBudget.schema.activeYears.length; i++){
 				emptyCat.values.push({
-					year: config.activeYears[i],
+					year: $scope.selectedBudget.schema.activeYears[i],
 					val : 0
 				})
 			}

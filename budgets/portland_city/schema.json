@@ -1,0 +1,11 @@
+{
+
+	"activeYears" : ["2015", "2016", "2017", "2018"],
+
+	"dataSetList" : [
+		{ "name" : "Home", 	"path" : "home.json"},
+		{ "name": "Expenses", "path" : "expenses.json" },
+		{ "name": "Revenues", "path" : "revenues.json" },
+		{ "name": "Funds", 	"path" : "funds.json" }
+	]
+}

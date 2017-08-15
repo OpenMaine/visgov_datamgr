@@ -2,5 +2,44 @@
   "key": "Expenses",
   "src": "",
   "hash": "35808d3b",
-  "sub": []
+  "sub": [
+    {
+      "descr": "",
+      "key": "New Category",
+      "src": "",
+      "sub": [],
+      "url": "",
+      "values": [
+        {
+          "year": "2012",
+          "val": 0
+        },
+        {
+          "year": "2013",
+          "val": 0
+        },
+        {
+          "year": "2014",
+          "val": 0
+        },
+        {
+          "year": "2015",
+          "val": 0
+        },
+        {
+          "year": "2016",
+          "val": 0
+        },
+        {
+          "year": "2017",
+          "val": 0
+        },
+        {
+          "year": "2018",
+          "val": 0
+        }
+      ],
+      "hash": "fiXOnkP5"
+    }
+  ]
 }
