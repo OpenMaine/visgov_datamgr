@@ -1,45 +1,344 @@
 {
+  "descr": "",
   "key": "Expenses",
   "src": "",
   "hash": "35808d3b",
+  "url": "",
+  "values": [
+    {
+      "year": "2012",
+      "val": 2145685358
+    },
+    {
+      "year": "2013",
+      "val": 2171163065
+    },
+    {
+      "year": "2014",
+      "val": 2203903763
+    },
+    {
+      "year": "2015",
+      "val": 2235806906
+    },
+    {
+      "year": "2016",
+      "val": 2259305625
+    },
+    {
+      "year": "2017",
+      "val": 2280001963
+    },
+    {
+      "year": "2018",
+      "val": 2292727223
+    }
+  ],
   "sub": [
     {
       "descr": "",
-      "key": "New Category",
+      "key": "Adjustments",
       "src": "",
       "sub": [],
       "url": "",
       "values": [
         {
           "year": "2012",
-          "val": 0
+          "val": 41723140
         },
         {
           "year": "2013",
-          "val": 0
+          "val": 41876093
         },
         {
           "year": "2014",
-          "val": 0
+          "val": 41923103
         },
         {
           "year": "2015",
-          "val": 0
+          "val": 42254567
         },
         {
           "year": "2016",
-          "val": 0
+          "val": 42586047
         },
         {
           "year": "2017",
-          "val": 0
+          "val": 42200635
         },
         {
           "year": "2018",
-          "val": 0
+          "val": 40968826
         }
       ],
-      "hash": "fiXOnkP5"
+      "hash": "1xsFHLYJ"
+    },
+    {
+      "descr": "",
+      "key": "Teacher Retirement & Insurance (state contribution)",
+      "src": "",
+      "sub": [],
+      "url": "",
+      "values": [
+        {
+          "year": "2012",
+          "val": 172592848
+        },
+        {
+          "year": "2013",
+          "val": 174932892
+        },
+        {
+          "year": "2014",
+          "val": 169515042
+        },
+        {
+          "year": "2015",
+          "val": 176943723
+        },
+        {
+          "year": "2016",
+          "val": 147838154
+        },
+        {
+          "year": "2017",
+          "val": 156985489
+        },
+        {
+          "year": "2018",
+          "val": 172880735
+        }
+      ],
+      "hash": "N2r6LRSk"
+    },
+    {
+      "descr": "",
+      "key": "Total Operating, Debt and Adjustments",
+      "src": "",
+      "sub": [
+        {
+          "descr": "",
+          "key": "Operating Allocation (Total)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2012",
+              "val": 1762899432
+            },
+            {
+              "year": "2013",
+              "val": 1783731505
+            },
+            {
+              "year": "2014",
+              "val": 1796900933
+            },
+            {
+              "year": "2015",
+              "val": 1830672878
+            },
+            {
+              "year": "2016",
+              "val": 1872709385
+            },
+            {
+              "year": "2017",
+              "val": 1882494984
+            },
+            {
+              "year": "2018",
+              "val": 1867858809
+            }
+          ],
+          "hash": "Y28z4G2y"
+        },
+        {
+          "descr": "",
+          "key": "Debt Service (Total)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2012",
+              "val": 104575834
+            },
+            {
+              "year": "2013",
+              "val": 103872675
+            },
+            {
+              "year": "2014",
+              "val": 97440243
+            },
+            {
+              "year": "2015",
+              "val": 90854708
+            },
+            {
+              "year": "2016",
+              "val": 87869709
+            },
+            {
+              "year": "2017",
+              "val": 88428148
+            },
+            {
+              "year": "2018",
+              "val": 86952263
+            }
+          ],
+          "hash": "yUkOLpMf"
+        },
+        {
+          "descr": "",
+          "key": "Enhancing Student Performance and Opportunity",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2012",
+              "val": 0
+            },
+            {
+              "year": "2013",
+              "val": 0
+            },
+            {
+              "year": "2014",
+              "val": 2500000
+            },
+            {
+              "year": "2015",
+              "val": 2472105
+            },
+            {
+              "year": "2016",
+              "val": 4447105
+            },
+            {
+              "year": "2017",
+              "val": 4397105
+            },
+            {
+              "year": "2018",
+              "val": 1450000
+            }
+          ],
+          "hash": "NTt8ejSf"
+        },
+        {
+          "descr": "",
+          "key": "Adjustments & Misc. (Total)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2012",
+              "val": 63894104
+            },
+            {
+              "year": "2013",
+              "val": 66749900
+            },
+            {
+              "year": "2014",
+              "val": 66725883
+            },
+            {
+              "year": "2015",
+              "val": 62816943
+            },
+            {
+              "year": "2016",
+              "val": 66564135
+            },
+            {
+              "year": "2017",
+              "val": 67138019
+            },
+            {
+              "year": "2018",
+              "val": 75342520
+            }
+          ],
+          "hash": "0F4gYcbf"
+        },
+        {
+          "descr": "",
+          "key": "Normal Cost of Teacher Retirement (Total)",
+          "src": "",
+          "sub": [],
+          "url": "",
+          "values": [
+            {
+              "year": "2012",
+              "val": 0
+            },
+            {
+              "year": "2013",
+              "val": 0
+            },
+            {
+              "year": "2014",
+              "val": 28898559
+            },
+            {
+              "year": "2015",
+              "val": 29791982
+            },
+            {
+              "year": "2016",
+              "val": 37291090
+            },
+            {
+              "year": "2017",
+              "val": 38357583
+            },
+            {
+              "year": "2018",
+              "val": 45274070
+            }
+          ],
+          "hash": "nYePylmN"
+        }
+      ],
+      "url": "",
+      "values": [
+        {
+          "year": "2012",
+          "val": 1931369370
+        },
+        {
+          "year": "2013",
+          "val": 1954354080
+        },
+        {
+          "year": "2014",
+          "val": 1992465618
+        },
+        {
+          "year": "2015",
+          "val": 2016608616
+        },
+        {
+          "year": "2016",
+          "val": 2068881424
+        },
+        {
+          "year": "2017",
+          "val": 2080815839
+        },
+        {
+          "year": "2018",
+          "val": 2076877662
+        }
+      ],
+      "hash": "0vdQdP2x"
     }
   ]
 }

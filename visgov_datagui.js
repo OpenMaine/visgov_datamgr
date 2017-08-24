@@ -25,7 +25,7 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 
 		$scope.synchDataset = function(payLoad){
 			var req = {
-				url : 'vizbud_api.php',
+				url : 'visgov_api.php',
 				method : 'POST',
 				data: {
 					api : "synchFile",
@@ -61,7 +61,7 @@ app.controller('vbGuiCtrl', ['$scope', '$http', '$sce', '$rootScope', '$window',
 
 		$scope.getBudgetList = function(){
 			var req = {
-				url : 'vizbud_api.php',
+				url : 'visgov_api.php',
 				method : 'POST',
 				data: {
 					api : "listBudgets"
